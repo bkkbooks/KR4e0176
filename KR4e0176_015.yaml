@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0176/krp/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雲村集後序先君平生所著詩文甚富晚嵗去取而存之重繕而藏去焉先君既沒之四年聞造敬陳而覽之恍若過庭時舉古聖賢豪傑之論議而耳提面命也泫然泣數行下曰噫吾父不可作矣繄起之長存者梓是集矣乎然於彌留之際傳寫差謬不及校閲勘正魚豕尚多於是奉集走而謀諸學於先君者董君吳君曰先君晚仕早歸不獲垂勳竹素泯焉無傳造弗忍也造聞文章者經國之大業不朽之盛事梓是集以永先君可乎二君僉曰宜子能然其不沒吾師矣受而終讀釐其訛而歸其書於豫豫遂梓之而傳其書於世詩賦如干首文如干篇卷類為十四俟識者覽云男聞造百拜謹識
+  hash: sha256:5a78f4b9dc4eccaa54b5fa81f63fb73b847d2d6617541798add59a41a0cb63da
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0176_WYG_015-1a, image: WYG1272/WYG1272-0283a.png}
+metadata:
+  title: 雲村集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:24:03.566571'
+  juan_title: 後序
+  source:
+    repository: kanripo
+    path: KR4e0176/KR4e0176_015.txt
+hash: sha256:d2144758930af0d787509f974cbb4e43ac4850acd2e4ca6fe47a58104dc26933
