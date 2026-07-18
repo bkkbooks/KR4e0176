@@ -585,9 +585,11 @@ markers:
       ', id: KR4e0176_WYG_014-bkkkrnewl142}
   - {type: line-break, offset: 2521, content: '', id: KR4e0176_WYG_014-8b08}
   - {type: punctuation, offset: 2525, content: (, id: KR4e0176_WYG_014-bkkpn1}
+  - {type: voice, offset: 2525, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2526, content: /, id: KR4e0176_WYG_014-bkkpn2}
   - {type: punctuation, offset: 2526, content: ), id: KR4e0176_WYG_014-bkkpn3}
   - {type: punctuation, offset: 2538, content: (, id: KR4e0176_WYG_014-bkkpn4}
+  - {type: voice, offset: 2538, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2539, content: /, id: KR4e0176_WYG_014-bkkpn5}
   - {type: punctuation, offset: 2539, content: ), id: KR4e0176_WYG_014-bkkpn6}
   - {type: 'kr:newline', offset: 2542, content: '
@@ -894,6 +896,7 @@ markers:
       ', id: KR4e0176_WYG_014-bkkkrnewl217}
   - {type: line-break, offset: 3809, content: '', id: KR4e0176_WYG_014-13a02}
   - {type: punctuation, offset: 3826, content: (, id: KR4e0176_WYG_014-bkkpn7}
+  - {type: voice, offset: 3826, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3827, content: /, id: KR4e0176_WYG_014-bkkpn8}
   - {type: punctuation, offset: 3827, content: ), id: KR4e0176_WYG_014-bkkpn9}
   - {type: 'kr:newline', offset: 3830, content: '
@@ -901,6 +904,7 @@ markers:
       ', id: KR4e0176_WYG_014-bkkkrnewl218}
   - {type: line-break, offset: 3830, content: '', id: KR4e0176_WYG_014-13a03}
   - {type: punctuation, offset: 3836, content: (, id: KR4e0176_WYG_014-bkkpn10}
+  - {type: voice, offset: 3836, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 3837, content: /, id: KR4e0176_WYG_014-bkkpn11}
   - {type: punctuation, offset: 3837, content: ), id: KR4e0176_WYG_014-bkkpn12}
   - {type: 'kr:newline', offset: 3847, content: '
@@ -1411,4 +1415,4 @@ markers:
 
       ', id: KR4e0176_WYG_014-bkkkrnewl341}
   back: []
-hash: sha256:897c936f4a5910eff41dd57e45b672d8e9471aead3fe29fc37e8821933c6b5ec
+hash: sha256:a883fdebd460b1edef2b09f9e084ccac5290ba4c2be32559877763b5ac31300d
